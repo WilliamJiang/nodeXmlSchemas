@@ -3,6 +3,7 @@
   "version": "0.1.2",
   "description": "npm module to convert xml schemas to json - format",
   "main": "index.js",
+  "readmeFilename": "README.md",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
   },
