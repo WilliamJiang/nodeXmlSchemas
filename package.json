@@ -1,0 +1,28 @@
+{
+  "name": "xml_schema_to_json",
+  "version": "0.1.0",
+  "description": "npm module to convert xml schemas to json - format",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamJiang/nodeXmlSchemas.git"
+  },
+  "keywords": [
+    "webmd",
+    "xml-schema",
+    "json-format"
+  ],
+  "author": "William Jiang <wjiang@webmd.net> (http://webmd.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamJiang/nodeXmlSchemas/issues"
+  },
+  "homepage": "https://github.com/WilliamJiang/nodeXmlSchemas#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
