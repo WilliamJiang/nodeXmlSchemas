@@ -1,6 +1,6 @@
 {
   "name": "xml_schema_to_json",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "npm module to convert xml schemas to json - format",
   "main": "index.js",
   "scripts": {
